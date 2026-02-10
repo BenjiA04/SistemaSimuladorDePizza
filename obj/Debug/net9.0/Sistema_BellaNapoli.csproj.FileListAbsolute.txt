@@ -1,0 +1,14 @@
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\Sistema_BellaNapoli\bin\Debug\net9.0\Sistema_BellaNapoli.exe
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\Sistema_BellaNapoli\bin\Debug\net9.0\Sistema_BellaNapoli.deps.json
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\Sistema_BellaNapoli\bin\Debug\net9.0\Sistema_BellaNapoli.runtimeconfig.json
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\Sistema_BellaNapoli\bin\Debug\net9.0\Sistema_BellaNapoli.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\Sistema_BellaNapoli\bin\Debug\net9.0\Sistema_BellaNapoli.pdb
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\Sistema_BellaNapoli\obj\Debug\net9.0\Sistema_BellaNapoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\Sistema_BellaNapoli\obj\Debug\net9.0\Sistema_BellaNapoli.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\Sistema_BellaNapoli\obj\Debug\net9.0\Sistema_BellaNapoli.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\Sistema_BellaNapoli\obj\Debug\net9.0\Sistema_BellaNapoli.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\Sistema_BellaNapoli\obj\Debug\net9.0\Sistema_BellaNapoli.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\Sistema_BellaNapoli\obj\Debug\net9.0\refint\Sistema_BellaNapoli.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\Sistema_BellaNapoli\obj\Debug\net9.0\Sistema_BellaNapoli.pdb
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\Sistema_BellaNapoli\obj\Debug\net9.0\Sistema_BellaNapoli.genruntimeconfig.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\Sistema_BellaNapoli\obj\Debug\net9.0\ref\Sistema_BellaNapoli.dll

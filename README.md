@@ -12,9 +12,3 @@ Según la opción elegida, se presentan ingredientes disponibles y se genera una
 2. Selecciona el tipo de pizza ingresando el número correspondiente.
 3. Elige un ingrediente extra del menú mostrado.
 4. El sistema mostrará una factura con el pedido final.
-
----
-
-## 🛠️ Tecnologías utilizadas
-- C#
-- .NET (Aplicación de consola)
